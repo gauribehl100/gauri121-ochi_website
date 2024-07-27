@@ -39,7 +39,7 @@ function Landing() {
 
       <div className='border-t-[1px] border-gray-400 mt-32'></div>
 
-      <div className='flex flex-col sm:flex-row justify-between items-center pt-5'>
+      <div className='flex flex-col sm:flex-row justify-between items-center pt-5 pb-8'>
         <div className='text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl px-4 sm:px-10'>
           For public and private companies
         </div>
